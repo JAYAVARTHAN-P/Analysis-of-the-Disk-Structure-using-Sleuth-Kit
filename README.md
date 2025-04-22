@@ -30,8 +30,9 @@ mkfs.vfat disk.dd
 ```
 
 ## OUTPUT:
+![435587762-dc6c6e73-ea40-419d-ad6b-0ec31deb9476](https://github.com/user-attachments/assets/3aeda5fe-2ac2-4cb0-95a3-230b7021a013)
 
-![image](https://github.com/user-attachments/assets/dc6c6e73-ea40-419d-ad6b-0ec31deb9476)
+
 ### Create Disk
 ![image](https://github.com/user-attachments/assets/486b446a-0c92-4841-a095-3980000c3fc8)
 ### mmls 
